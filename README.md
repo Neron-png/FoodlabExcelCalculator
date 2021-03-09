@@ -1,1 +1,1 @@
-# foodlabsExcelCalculator
+# FoodlabExcelCalculator
